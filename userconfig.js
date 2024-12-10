@@ -20,7 +20,7 @@ const default_config = {
       background_url: "src/img/banners/cbg-12.gif",
       categories: [
         {
-          name: "bookmarks",
+          name: "entertainment",
           links: [
             {
               name: "anime",
@@ -29,9 +29,9 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "",
-              url: "https://musicforprogramming.net",
-              icon: "binary-tree",
+              name: "movies",
+              url: "https://rivestream.live",
+              icon: "brand-rumble",
               icon_color: palette.peach,
             },
           ],
