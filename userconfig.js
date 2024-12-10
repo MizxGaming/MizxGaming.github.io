@@ -25,11 +25,11 @@ const default_config = {
             {
               name: "anime",
               url: "https://hianime.to/home",
-              icon: "droplet-bolt",
+              icon: "device-tv",
               icon_color: palette.green,
             },
             {
-              name: "musicForProgramming()",
+              name: "",
               url: "https://musicforprogramming.net",
               icon: "binary-tree",
               icon_color: palette.peach,
